@@ -52,6 +52,7 @@ class Team:
                 print(random_hero_1.name + ' the END')
                 break
 
+
 Team = Team()
 
 Ged = Hero('Ged', 1000, 100)
